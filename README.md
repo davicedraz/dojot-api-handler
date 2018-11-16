@@ -1,6 +1,6 @@
 # dojot-api-handler
 
-This is a component that maps and lets you add the entire Dojot public API to your application.
+This is a component that maps and lets you add the entire Dojot public API to your application. Take a look at http://www.dojot.com.br/
 
 ## How to Setup
 
