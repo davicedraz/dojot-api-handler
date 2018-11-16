@@ -1,0 +1,6 @@
+{
+    "headers": {
+        "fiware-service": "admin",
+        "fiware-servicepath": "/"
+    }
+}
