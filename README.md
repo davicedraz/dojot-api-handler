@@ -1,3 +1,7 @@
+[![npm version](https://badge.fury.io/js/dojot-api-handler.svg)](https://badge.fury.io/js/dojot-api-handler) 
+![Maintenance](https://img.shields.io/maintenance/no/2018)
+
+
 # dojot-api-handler
 
 This is a usefull library to support any Nodejs application that intends to communicate with dojot platform. The library component maps the Dojot endpoints and lets you add the entire Dojot public API to your application. Take a look at http://www.dojot.com.br/ for more.
