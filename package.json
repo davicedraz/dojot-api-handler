@@ -9,8 +9,7 @@
         "iot"
     ],
     "author": {
-        "name": "Davi Cedraz",
-        "email": "davi_cedraz@atlantico.com.br"
+        "name": "Davi Cedraz"
     },
     "dependencies": {
         "debug": "^4.1.1",
